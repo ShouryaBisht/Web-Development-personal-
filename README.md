@@ -1,2 +1,3 @@
 # Web-Development-personal-
-My first git repository
+My first github repository
+Author - Shourya Bisht
